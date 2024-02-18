@@ -1,6 +1,8 @@
 # abfStringXORer
 A useful utility for Windows that employs the XOR encryption algorithm. 
 
+![image](https://github.com/karpolan/abfStringXORer/assets/1213313/e6b49fe3-575d-4ffc-b9b1-40bb0e133a9c)
+
 [Download for Windows](https://github.com/karpolan/abfStringXORer/raw/main/abfStringXORer.exe)
 
 ## XOR encryption
